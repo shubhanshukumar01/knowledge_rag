@@ -1,0 +1,8 @@
+Q4 planning notes
+
+Attendees: product, engineering, security, finance.
+
+1. SOC 2 Type II audit: fieldwork starts on 3 November. Security owns evidence collection; all control owners must upload evidence by 24 October.
+2. API v1 shutdown: confirmed for 31 March 2027. Customer success will email all v1 users in October and again in January.
+3. Hiring: two backend engineers and one data analyst approved for Q4.
+4. Offsite: the company offsite is planned for the second week of December.

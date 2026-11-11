@@ -1,0 +1,5 @@
+tier,price_per_seat_usd_month,sso,api_rate_limit_per_min,uptime_sla
+Starter,0,no,100,none
+Pro,49,no,600,none
+Business,89,yes,2000,99.9%
+Enterprise,custom,yes,custom,99.95%

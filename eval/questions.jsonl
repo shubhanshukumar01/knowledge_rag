@@ -1,0 +1,12 @@
+{"question": "How many days of annual leave do employees get per year?", "expected_source": "employee_handbook.md", "expected_keywords": ["24"]}
+{"question": "What is the per diem for international travel?", "expected_source": "travel_and_expense_policy.pdf", "expected_keywords": ["95"]}
+{"question": "When is business class allowed on flights?", "expected_source": "travel_and_expense_policy.pdf", "expected_keywords": ["Vice President"]}
+{"question": "Which Atlas tier is the cheapest one that includes SSO, and what does it cost per seat?", "expected_source": ["atlas_pricing_tiers.csv", "atlas_product_faq.txt"], "expected_keywords": ["Business", "89"]}
+{"question": "What was new in Atlas 3.2?", "expected_source": "atlas_release_notes.md", "expected_keywords": ["Ask Atlas"]}
+{"question": "What is the acknowledgement target for a P1 security incident?", "expected_source": "security_policy.md", "expected_keywords": ["15 minutes"]}
+{"question": "When will the legacy API v1 be switched off?", "expected_source": ["atlas_release_notes.md", "q4_planning_notes.txt"], "expected_keywords": ["31 March"]}
+{"question": "Which trainings must a new joiner complete in the first two weeks?", "expected_source": "onboarding_checklist.docx", "expected_keywords": ["security"]}
+{"question": "How long is the notice period after probation?", "expected_source": "employee_handbook.md", "expected_keywords": ["60 days"]}
+{"question": "What is the hotel rate cap for international travel?", "expected_source": "travel_and_expense_policy.pdf", "expected_keywords": ["300"]}
+{"question": "When does the SOC 2 audit fieldwork start?", "expected_source": "q4_planning_notes.txt", "expected_keywords": ["3 November"]}
+{"question": "What is the API rate limit on the Pro tier?", "expected_source": ["atlas_product_faq.txt", "atlas_pricing_tiers.csv"], "expected_keywords": ["600"]}

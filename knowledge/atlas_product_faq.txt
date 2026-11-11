@@ -1,0 +1,13 @@
+Atlas Product FAQ
+
+Q: What is Atlas?
+A: Atlas is our analytics platform for building dashboards and sharing reports across teams.
+
+Q: Which plans include single sign-on (SSO)?
+A: SSO (SAML and OIDC) is included in the Business and Enterprise tiers. It is not available on Starter or Pro.
+
+Q: What are the API rate limits?
+A: Starter: 100 requests per minute. Pro: 600 requests per minute. Business: 2,000 requests per minute. Enterprise: custom limits.
+
+Q: What uptime do you guarantee?
+A: Business and Enterprise plans come with a 99.9% uptime SLA.

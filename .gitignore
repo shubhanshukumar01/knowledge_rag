@@ -1,0 +1,9 @@
+# secrets live here - never commit it (config.example.yaml is the tracked template)
+config.yaml
+
+# generated
+index/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
